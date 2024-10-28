@@ -20,6 +20,7 @@ namespace Tyuiu.GulahmedovTE.Sprint3.Task0.V10
             Console.WriteLine("Сумма ряда = " + ds.GetMultiplySeries(value, startValue, stopValue));
 
             Console.ReadKey();
+
         }
     }
 }

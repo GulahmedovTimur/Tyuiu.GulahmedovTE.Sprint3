@@ -13,6 +13,7 @@ namespace Tyuiu.GulahmedovTE.Sprint3.Task0.V10.Lib
                 P *= Math.Pow(300 / (i + (Math.Pow(value, i))), i);
             }
             return Math.Round(P, 3);
+
         }
     }
 }

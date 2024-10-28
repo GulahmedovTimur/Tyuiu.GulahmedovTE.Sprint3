@@ -18,6 +18,7 @@ namespace Tyuiu.GulahmedovTE.Sprint3.Task0.V10.Test
             double wait = 0.033;
 
             Assert.AreEqual(res, wait);
+
         }
     }
 }
